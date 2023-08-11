@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 12.01px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Lato;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <image width="16" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIUlEQVQ4jWNkYGD4z0ABYKJEM8OoAaMGjBowWAxgYGAAAE1AAR/AywFlAAAAAElFTkSuQmCC"/>
+    <text id="Cz" class="cls-1" x="7.879" y="11.824">Cz</text>
+  </g>
+</svg>
